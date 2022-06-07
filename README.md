@@ -2,12 +2,13 @@
 An External Cheat/Trainer utility for the game: Dark Souls 3.
 ### Game version: 1.15 | Trainer version: v1
 ## Features
-### Player
+
+### Player:
 - **Modify current HP and FP**
 - **Unlimited HP, FP and stamina (by freezing the values)**
 - **Unlimited souls** 
-#### PlayerStats
-**Edit easily and quickly the following stats:**
+### PlayerStats:
+#####  **(Edit easily and quickly the following stats)**
 - Soul Level (SL)
 - Vigor
 - Attunement
@@ -18,6 +19,6 @@ An External Cheat/Trainer utility for the game: Dark Souls 3.
 - Intelligence
 - Faith
 - Luck
-### Other features
+### Other features:
 - **Modify Engine Speed**
 - **Death counter**
