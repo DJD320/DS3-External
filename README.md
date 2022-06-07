@@ -22,3 +22,8 @@ An External Cheat/Trainer utility for the game: Dark Souls 3.
 ### Other features:
 - **Modify Engine Speed**
 - **Death counter**
+
+
+### Credits:
+- **xor#2407** - Main Developer / Reverser
+- **smooth#9999** - Reverser / GUI Design
