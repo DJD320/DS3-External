@@ -20,4 +20,4 @@ An External Cheat/Trainer utility for the game: Dark Souls 3.
 - Luck
 ### Other features
 - **Modify Engine Speed**
--**Death counter**
+- **Death counter**
